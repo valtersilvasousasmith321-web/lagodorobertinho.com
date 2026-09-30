@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valtersilvasousasmith321-web.github.io/lago-do-robertinho/sitemap.xml
